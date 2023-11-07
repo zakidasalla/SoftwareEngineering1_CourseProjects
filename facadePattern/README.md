@@ -15,4 +15,5 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 </ul>
 
 # Class Diagram
+![Assessment 2 (1)](https://github.com/zakidasalla/SoftwareEngineering1_CourseProjects/assets/142433516/4b8b56d2-f563-4c68-aef5-4557e7f63df7)
 
