@@ -48,4 +48,4 @@
 </ul>
 
 # UML Class Diagram
-
+![Blank diagram - Page 1 (5)](https://github.com/zakidasalla/SoftwareEngineering1_CourseProjects/assets/142433516/6c82f39e-6d11-4578-8123-beed758dc4de)
