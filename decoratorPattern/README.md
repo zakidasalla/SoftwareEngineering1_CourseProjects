@@ -51,6 +51,7 @@ public class Cimb {
 ````
 
 ### You should display the following output:
+![Screenshot 2023-12-12 203331](https://github.com/zakidasalla/SoftwareEngineering1_CourseProjects/assets/142433516/9aa97f60-9985-4aa9-9b92-1479f60146a6)
 
 
 
@@ -67,3 +68,4 @@ public class Cimb {
 **BankAcountDecorator** must be an interface.
 
 # UML Diagram
+![Screenshot 2023-12-12 203321](https://github.com/zakidasalla/SoftwareEngineering1_CourseProjects/assets/142433516/c9e3cefc-006f-484b-ba5a-ab03e2290345)
